@@ -15,7 +15,7 @@ https://docs.haskellstack.org/en/stable/README/#how-to-install
 2. Get this repository onto your laptop. For example:
 
 ```
-$ git clone https://github.com/benclifford/2018-nottingham-prereq
+$ git clone https://github.com/benclifford/2019-nottingham-prereq
 ```
 
 3. Build the pre-requisites test code:
